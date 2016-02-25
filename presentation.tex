@@ -39,7 +39,7 @@ Plymouth University}}
 
 \begin{document}
 
-\licenseframe{https://github.com/severin-lemaignan/hri2016-withmeness}
+\licenseframe{https://github.com/severin-lemaignan/hri2016-withmeness-presentation}
 
 \maketitle
 
@@ -72,6 +72,69 @@ Plymouth University}}
 }
 
 \section{With-me-ness}
+
+\begin{frame}[fragile]{}
+\begin{pythoncode}
+
+def withmeness(startime, endtime):
+
+    withme_duration = expected_duration = 0
+    dt = 0.1 #typically in sec
+    t = starttime
+
+    while t < endtime:
+        task = task_at(t)
+        expected_foci = expected_foci(task)
+        focus = user_focus_at(t)
+
+        if task and expected_foci and focus:
+            if focus in expected_foci:
+                withme_duration += dt
+
+            expected_duration += dt
+
+        t += dt
+
+    return withme_duration / expected_duration
+
+\end{pythoncode}
+
+\end{frame}
+
+\begin{frame}{Expected focus}
+
+    \centering
+    \python{def expected_foci(task)}?
+
+    \uncover<2->{
+        \begin{multicols}{2}
+           \scriptsize 
+           \begin{tabular}{p{2.5cm}p{2.5cm}}
+            \toprule
+            {\Medium Interaction Phase} & {\Medium Expected targets} \\
+            \midrule
+            Presentation & {\sf robot} \\ 
+            \midrule
+            Waiting for word & {\sf secondary tablet} \\ 
+            \midrule
+            Writing word & {\sf tablet}\newline {\sf robot} \\ 
+            \midrule
+            Waiting for feedback & {\sf tablet}\newline {\sf secondary tablet} \\ 
+            \midrule
+            Story telling & {\sf robot} \\ 
+            \midrule
+            Bye & {\sf robot} \\ 
+            \bottomrule
+        \end{tabular}
+
+            \includegraphics[width=0.95\columnwidth]{experimental_setup}
+        \end{multicols}
+    }
+    \uncover<3>{
+        Resulting with-me-ness value {\Medium very sensitive to this mapping}\\
+        With-me-ness is a {\Medium relative metric}!
+    }
+\end{frame}
 
 \imageframe[scale=0.95]{with-me-ness}
 
