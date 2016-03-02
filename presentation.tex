@@ -45,8 +45,27 @@ Plymouth University}}
 
 \section{Attention tracking}
 
-\imageframe{head_pose}
+\begin{frame}[plain]{}
+    \begin{center}
+     \only<1>{
+        \includegraphics[width=0.8\linewidth]{head_pose0}
+    }
+     \only<2->{
+        \includegraphics[width=0.8\linewidth]{head_pose}
+    }
+
+    \texttt{dlib}
+    \uncover<2->{+ OpenCV}
+    \uncover<3->{= \texttt{gazr}
+
+    \url{http://github.com/severin-lemaignan/gazr}}
+    \end{center}
+\end{frame}
+
+
 \imageframe[color=black]{head_pose_real_world}
+
+\imageframe[color=black]{field_of_attention0}
 
 \section{Experimental setup}
 
@@ -54,10 +73,30 @@ Plymouth University}}
 \imageframe{experimental_setup}
 \imageframe[color=black]{field_of_attention}
 
-{\fullbackground[scale=0.95]{matches-excerpt}
-    \begin{frame}{How accurate?}
-        \vspace{5.4cm}
-        \scriptsize
+\begin{frame}{How accurate?}
+    \begin{center}
+        \only<1>{
+            \includegraphics[width=\linewidth]{matches-excerpt0}
+        }
+        \only<2->{
+
+        \includegraphics[width=\linewidth]{matches-excerpt}
+    }
+
+    \vspace{2em}
+\only<1,2>{
+    \scriptsize
+    \begin{tabular}{p{3.3cm}cccccccc}
+        \toprule
+        {\Medium Subject} & 1 & 2 & 3 & 4 & 5 & 6 & {\Medium M} & {\it SD} \\
+        \midrule
+        {\bf Head pose tracking} (\%) & 88.2 & 83.5 & 90.5 & 83.1 & 87.9 & 85.0 & {\Medium 86.4} & {\it 3.0} \\ 
+        \bottomrule
+    \end{tabular}
+}
+
+\uncover<3>{
+    \scriptsize
     \begin{tabular}{p{3.3cm}cccccccc}
         \toprule
         {\Medium Subject} & 1 & 2 & 3 & 4 & 5 & 6 & {\Medium M} & {\it SD} \\
@@ -68,10 +107,27 @@ Plymouth University}}
         {\bf Cohen's $\kappa$} & 0.48 & 0.56 & 0.68 & 0.26 & 0.47 & 0.68 & {\Medium 0.52} & {\it 0.16}\\
         \bottomrule
     \end{tabular}
-    \end{frame}
 }
+    \vspace{6em}
+    \end{center}
+\end{frame}
 
 \section{With-me-ness}
+
+\begin{frame}[plain]{}
+    \begin{center}
+        \includegraphics[width=0.8\linewidth]{realSetup}
+
+        \only<1>{
+        {\Medium Robot's expectations:}
+        \includegraphics[width=\linewidth]{with-me-ness-expectations}
+    }
+    \only<2>{
+        {\Medium Expectations vs observations:}
+        \includegraphics[width=\linewidth]{with-me-ness-expectations-observations}
+    }
+    \end{center}
+\end{frame}
 
 \begin{frame}[fragile]{}
 \begin{pythoncode}
@@ -80,9 +136,8 @@ def withmeness(startime, endtime):
 
     withme_duration = expected_duration = 0
     dt = 0.1 #typically in sec
-    t = starttime
 
-    while t < endtime:
+    for t in range(starttime, endtime, dt):
         task = task_at(t)
         expected_foci = expected_foci(task)
         focus = user_focus_at(t)
@@ -93,13 +148,23 @@ def withmeness(startime, endtime):
 
             expected_duration += dt
 
-        t += dt
-
     return withme_duration / expected_duration
 
 \end{pythoncode}
 
 \end{frame}
+
+\imageframe[scale=0.95]{with-me-ness-robot}
+{\fullbackground[scale=0.95]{with-me-ness-groundtruth}
+    \begin{frame}{}
+        \vspace{6cm}
+        \begin{center}
+        $r(973) = 0.58, p < .001$
+            
+        \end{center}
+    \end{frame}
+
+}
 
 \begin{frame}{Expected focus}
 
@@ -136,6 +201,7 @@ def withmeness(startime, endtime):
     }
 \end{frame}
 
+\section{What does it says about the interaction?}
 \imageframe[scale=0.95]{with-me-ness}
 
 
