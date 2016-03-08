@@ -27,10 +27,11 @@
 %--------------------------------------------------------------------------
 \title{From Attention to With-me-ness}
 \subtitle{(what a lovely neologism)}
-\date{\today}
-\author{Séverin Lemaignan}
-\institute{Centre for Robotics and Neural Systems\\ {\Medium
-Plymouth University}}
+\date{March 9, 2016}
+\author{\scriptsize\Medium Séverin Lemaignan, Fernando Garcia, \\Alexis Jacq, Pierre
+Dillenbourg}
+\institute{Computer-Human Interaction \\for Learning and Instruction | {\Medium
+EPFL}}
 
 %--------------------------------------------------------------------------
 % Notes settings
@@ -39,7 +40,7 @@ Plymouth University}}
 
 \begin{document}
 
-\licenseframe{https://github.com/severin-lemaignan/hri2016-withmeness-presentation}
+%\licenseframe{https://github.com/severin-lemaignan/hri2016-withmeness-presentation}
 
 \maketitle
 
@@ -77,7 +78,7 @@ Plymouth University}}
 \imageframe{experimental_setup}
 \imageframe[color=black]{field_of_attention}
 
-\begin{frame}{How accurate?}
+\begin{frame}{How good is the tracking?}
     \begin{center}
         \only<1>{
             \includegraphics[width=\linewidth]{matches-excerpt0}
@@ -205,9 +206,28 @@ def withmeness(startime, endtime):
     }
 \end{frame}
 
-\section{What does it says about the interaction?}
-\imageframe[scale=0.95]{with-me-ness}
+%\section{What does it say about the interaction?}
+%\imageframe[scale=0.95]{with-me-ness}
 
+\begin{frame}{In short}
+
+    {\Medium With-me-ness is...}
+
+    \begin{itemize}
+        \item An {\Medium objective} \& {\Medium quantitative} metric for engagement...
+        \item ...based on matching the {\Medium user's focus of attention} with a set of
+            {\Medium prior expectations}
+        \item Can be computed {\Medium on-line} by the robot...
+        \item ...but {\Medium sensitive to} the (task-dependent) {\Medium set of
+            expectations}
+        \item $\Rightarrow$ {\Medium relative} metric!
+    \end{itemize}
+
+    \centering
+    (and all open-source!)
+
+
+\end{frame}
 
 \end{document}
 
