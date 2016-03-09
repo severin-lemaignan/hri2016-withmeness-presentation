@@ -49,21 +49,24 @@ EPFL}}
 \begin{frame}[plain]{}
     \begin{center}
      \only<1>{
-        \includegraphics[width=0.8\linewidth]{head_pose0}
+        \includegraphics[width=0.8\linewidth]{head_pose0-me}
     }
      \only<2>{
+        \includegraphics[width=0.8\linewidth]{head_pose0}
+    }
+     \only<3>{
         \includegraphics[width=0.8\linewidth]{head_pose}
     }
 
-     \only<3->{
+     \only<4->{
         \includegraphics[width=0.8\linewidth]{head_pose2}
     }
 
     \texttt{dlib}
-    \uncover<2->{+ OpenCV}
-    \uncover<3->{= \texttt{gazr}
+    \uncover<3->{+ OpenCV}
+    \uncover<4->{= \texttt{gazr}
 
-    \url{http://github.com/severin-lemaignan/gazr}}
+    \url{http://github.com/severin-lemaignan/gazr} (with ROS support!)}
     \end{center}
 \end{frame}
 
@@ -214,11 +217,11 @@ def withmeness(startime, endtime):
     {\Medium With-me-ness is...}
 
     \begin{itemize}
-        \item An {\Medium objective} \& {\Medium quantitative} metric for engagement...
+        \item An {\Medium objective} \& {\Medium quantitative} precursor of engagement...
         \item ...based on matching the {\Medium user's focus of attention} with a set of
             {\Medium prior expectations}
         \item Can be computed {\Medium on-line} by the robot...
-        \item ...but {\Medium sensitive to} the (task-dependent) {\Medium set of
+        \item ...and {\Medium sensitive to} the (task-dependent) {\Medium set of
             expectations}
         \item $\Rightarrow$ {\Medium relative} metric!
     \end{itemize}

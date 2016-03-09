@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="321.27444"
-   width="1663.5168"
+   height="286.72894"
+   width="1579.9607"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -101,15 +101,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="1.18"
-     inkscape:cx="580.24117"
-     inkscape:cy="161.27897"
-     inkscape:window-x="1080"
-     inkscape:window-y="867"
+     inkscape:zoom="2.36"
+     inkscape:cx="244.00749"
+     inkscape:cy="245.89807"
+     inkscape:window-x="0"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4710"
      fit-margin-top="0"
@@ -120,9 +120,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="guides-h"
-     transform="translate(-7.7123327,-75.766745)" />
+     transform="translate(-91.268467,-83.798365)" />
   <g
-     transform="matrix(1.25,0,0,-1.25,-822.90646,789.66891)"
+     transform="matrix(1.25,0,0,-1.25,-906.46259,781.63729)"
      inkscape:label="ink_ext_XXXXXX"
      id="g10">
     <g
@@ -286,165 +286,44 @@
        id="g4710">
       <path
          d="m 1974.9371,7177.8476 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4712"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4714"
-         transform="matrix(8.95058,0,0,8.95058,1245.0791,5535.8076)">
-        <text
-           transform="matrix(1,0,0,-1,19.3672,180.143)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4716">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'"
-             y="0"
-             x="0"
-             sodipodi:role="line"
-             id="tspan4718">Observer</tspan>
-        </text>
-      </g>
       <path
          d="m 1974.9371,7476.6476 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4720"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4722"
-         transform="matrix(8.95058,0,0,8.95058,1245.5689,5535.8076)">
-        <text
-           transform="matrix(1,0,0,-1,16.1953,213.523)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4724">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'"
-             y="0"
-             x="0"
-             sodipodi:role="line"
-             id="tspan4726">Facilitator</tspan>
-        </text>
-      </g>
       <path
          d="m 1974.9371,7775.4076 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4728"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4730"
-         transform="matrix(8.95058,0,0,8.95058,1271.1567,5535.8076)">
-        <text
-           y="-253.50296"
-           x="73.848015"
-           transform="scale(1,-1)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4732">
-          <tspan
-             y="-253.50296"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium';text-align:end;text-anchor:end"
-             x="73.848015"
-             sodipodi:role="line"
-             id="tspan4734">Secondary</tspan>
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium';text-align:end;text-anchor:end"
-             y="-236.00302"
-             x="73.848015"
-             id="tspan14792"
-             sodipodi:role="line">tablet</tspan>
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium';text-align:end;text-anchor:end"
-             id="tspan14790"
-             x="-56.282761 -48.662724"
-             y="-253.50296"
-             sodipodi:role="line" />
-        </text>
-      </g>
       <path
          d="m 1974.9371,8074.1676 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4736"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4738"
-         transform="matrix(8.95058,0,0,8.95058,1236.7364,5535.8076)">
-        <text
-           transform="matrix(1,0,0,-1,40.3832,280.286)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4740">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'"
-             y="0"
-             x="0"
-             sodipodi:role="line"
-             id="tspan4742">Robot</tspan>
-        </text>
-      </g>
       <path
          d="m 1974.9371,8372.9676 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4744"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4746"
-         transform="matrix(8.95058,0,0,8.95058,1255.3419,5535.8076)">
-        <text
-           transform="matrix(1,0,0,-1,38.3045,313.667)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4748">
-          <tspan
-             y="0"
-             x="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'"
-             sodipodi:role="line"
-             id="tspan4750">Tablet</tspan>
-        </text>
-      </g>
       <path
          d="m 1974.9371,8671.7176 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4752"
          inkscape:connector-curvature="0" />
-      <g
-         id="g4754"
-         transform="matrix(8.95058,0,0,8.95058,1259.2743,5535.8076)">
-        <text
-           transform="matrix(1,0,0,-1,40.3671,347.049)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text4756">
-          <tspan
-             y="0"
-             x="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'"
-             sodipodi:role="line"
-             id="tspan4758">Other</tspan>
-        </text>
-      </g>
       <path
          d="m 1974.9371,8970.5176 35.801,0"
-         style="fill:none;stroke:#000000;stroke-width:4.56587124;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4760"
          inkscape:connector-curvature="0" />
       <path
          d="m 1974.9371,7175.5099 0,1799.1606"
-         style="fill:none;stroke:#000000;stroke-width:9.13174248;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:17.90109644;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path4768"
          inkscape:connector-curvature="0" />
-      <g
-         transform="matrix(8.95058,0,0,8.95058,1225.0573,5836.5461)"
-         id="g4770">
-        <text
-           y="-347.04901"
-           x="17.680313"
-           id="text4772"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="scale(1,-1)">
-          <tspan
-             y="-347.04901"
-             x="17.680313"
-             id="tspan4774"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995041px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'">Lost track</tspan>
-        </text>
-      </g>
     </g>
     <g
        id="g5240"
@@ -583,21 +462,6 @@
          style="fill:none;stroke:#000000;stroke-width:1.00001025;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path5300"
          inkscape:connector-curvature="0" />
-      <g
-         transform="matrix(1.0000035,0,0,1.0000035,373.42259,-117.18507)"
-         id="g5302">
-        <text
-           id="text5304"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,40.3832,280.286)">
-          <tspan
-             id="tspan5306"
-             sodipodi:role="line"
-             x="0"
-             y="0"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.99995136px;font-family:FlamaLight;-inkscape-font-specification:'FlamaLight Medium'">Time (seconds)</tspan>
-        </text>
-      </g>
     </g>
     <g
        id="g10768"
@@ -608,399 +472,399 @@
          style="fill-opacity:1;stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
          id="g5270">
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="0"
            y1="40"
            x2="38"
            y2="40"
            id="line5272" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="38"
            y1="20"
            x2="54"
            y2="20"
            id="line5274" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="38"
            y1="30"
            x2="54"
            y2="30"
            id="line5276" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="54"
            y1="20"
            x2="76"
            y2="20"
            id="line5278" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="54"
            y1="40"
            x2="76"
            y2="40"
            id="line5280" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="76"
            y1="20"
            x2="95"
            y2="20"
            id="line5282" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="76"
            y1="30"
            x2="95"
            y2="30"
            id="line5284" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="95"
            y1="20"
            x2="98"
            y2="20"
            id="line5286" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="95"
            y1="40"
            x2="98"
            y2="40"
            id="line5288" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="98"
            y1="20"
            x2="115"
            y2="20"
            id="line5290" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="98"
            y1="30"
            x2="115"
            y2="30"
            id="line5292" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="115"
            y1="20"
            x2="169"
            y2="20"
            id="line5294" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="115"
            y1="40"
            x2="169"
            y2="40"
            id="line5296" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="169"
            y1="20"
            x2="183"
            y2="20"
            id="line5298" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="169"
            y1="30"
            x2="183"
            y2="30"
            id="line5300" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="183"
            y1="20"
            x2="188"
            y2="20"
            id="line5302" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="183"
            y1="40"
            x2="188"
            y2="40"
            id="line5304" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="188"
            y1="20"
            x2="207"
            y2="20"
            id="line5306" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="188"
            y1="30"
            x2="207"
            y2="30"
            id="line5308" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="207"
            y1="20"
            x2="235"
            y2="20"
            id="line5310" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="207"
            y1="40"
            x2="235"
            y2="40"
            id="line5312" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="235"
            y1="20"
            x2="251"
            y2="20"
            id="line5314" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="235"
            y1="30"
            x2="251"
            y2="30"
            id="line5316" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="251"
            y1="20"
            x2="254"
            y2="20"
            id="line5318" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="251"
            y1="40"
            x2="254"
            y2="40"
            id="line5320" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="254"
            y1="20"
            x2="267"
            y2="20"
            id="line5322" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="254"
            y1="30"
            x2="267"
            y2="30"
            id="line5324" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="267"
            y1="20"
            x2="323"
            y2="20"
            id="line5326" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="267"
            y1="40"
            x2="323"
            y2="40"
            id="line5328" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="323"
            y1="20"
            x2="339"
            y2="20"
            id="line5330" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="323"
            y1="30"
            x2="339"
            y2="30"
            id="line5332" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="339"
            y1="20"
            x2="346"
            y2="20"
            id="line5334" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="339"
            y1="40"
            x2="346"
            y2="40"
            id="line5336" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="346"
            y1="20"
            x2="363"
            y2="20"
            id="line5338" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="346"
            y1="30"
            x2="363"
            y2="30"
            id="line5340" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="363"
            y1="20"
            x2="379"
            y2="20"
            id="line5342" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="363"
            y1="40"
            x2="379"
            y2="40"
            id="line5344" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="379"
            y1="20"
            x2="398"
            y2="20"
            id="line5346" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="379"
            y1="30"
            x2="398"
            y2="30"
            id="line5348" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="398"
            y1="20"
            x2="462"
            y2="20"
            id="line5350" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="398"
            y1="40"
            x2="462"
            y2="40"
            id="line5352" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="462"
            y1="20"
            x2="480"
            y2="20"
            id="line5354" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="462"
            y1="30"
            x2="480"
            y2="30"
            id="line5356" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="480"
            y1="20"
            x2="584"
            y2="20"
            id="line5358" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="480"
            y1="40"
            x2="584"
            y2="40"
            id="line5360" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="584"
            y1="20"
            x2="607"
            y2="20"
            id="line5362" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="584"
            y1="30"
            x2="607"
            y2="30"
            id="line5364" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="607"
            y1="20"
            x2="775"
            y2="20"
            id="line5366" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="607"
            y1="40"
            x2="775"
            y2="40"
            id="line5368" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="775"
            y1="20"
            x2="792"
            y2="20"
            id="line5370" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="775"
            y1="30"
            x2="792"
            y2="30"
            id="line5372" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="792"
            y1="20"
            x2="809"
            y2="20"
            id="line5374" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="792"
            y1="40"
            x2="809"
            y2="40"
            id="line5376" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="809"
            y1="20"
            x2="830"
            y2="20"
            id="line5378" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="809"
            y1="30"
            x2="830"
            y2="30"
            id="line5380" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="830"
            y1="30"
            x2="991"
            y2="30"
            id="line5382" />
         <line
-           style="stroke:#4e9a06;stroke-width:0.79905766;stroke-miterlimit:4;stroke-dasharray:none"
+           style="stroke:#4e9a06;stroke-width:1.59811534;stroke-miterlimit:4;stroke-dasharray:none"
            x1="991"
            y1="40"
            x2="1004"
